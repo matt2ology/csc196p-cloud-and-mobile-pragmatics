@@ -1,4 +1,4 @@
-# CSC 196P - Cloud and Mobile Pragmatics - 3 Units
+# CSC 196P - Cloud and Mobile Pragmatics - 3 Units - Spring 2024
 
 Introduction to cloud computing. Cloud services. Deployment options.
 The installation, configuration, and deployment of a cloud infrastructure based

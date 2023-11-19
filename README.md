@@ -9,8 +9,8 @@ cloud service.
 
 Prerequisite: 
 
-- CSC 134 - Database Mgmt Systems
-- CSC 138 - Computer Network+Internet
+- CSC 134 - Database Management Systems
+- CSC 138 - Computer Networking Fundamentals
 - CSC 139 - Operating System Principles
 
 ## Instructor: [Mamoun Abu-Samaha](https://www.linkedin.com/in/mobility/)

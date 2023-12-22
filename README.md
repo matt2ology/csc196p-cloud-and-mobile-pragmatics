@@ -1,5 +1,7 @@
 # CSC 196P - Cloud and Mobile Pragmatics - 3 Units - Spring 2024
 
+Days/Times: TuTh 12:00PM - 1:15PM
+
 Introduction to cloud computing. Cloud services. Deployment options.
 The installation, configuration, and deployment of a cloud infrastructure based
 upon industrial standards. Step-by-step cloud setup as well as the development

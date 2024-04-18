@@ -1,3 +1,6 @@
 [submodule "csc196p-poc-project-01-rfid"]
 	path = csc196p-poc-project-01-rfid
 	url = git@github.com:matt2ology/csc196p-poc-project-01-rfid.git
+[submodule "csc196p-rfid-mvp-final-project"]
+	path = csc196p-rfid-mvp-final-project
+	url = git@github.com:matt2ology/csc196p-rfid-mvp-final-project.git
